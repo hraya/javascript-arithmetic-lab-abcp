@@ -1,4 +1,4 @@
-var a = 10
+var adda = 10
 
 function adda() {
  return a += number
