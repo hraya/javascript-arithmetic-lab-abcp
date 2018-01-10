@@ -1,11 +1,11 @@
 var a = 10
 
 function adda() {
- return a += ;
+ return a += number
 }
 
 function subtractb() {
-   a -= b 
+   a -= number 
 }
 
 adda()
