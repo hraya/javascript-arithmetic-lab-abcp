@@ -10,4 +10,8 @@ function subtractb() {
 }
 
 adda()
+
 subtractb()
+
+console.log(a)
+console.log(b)
