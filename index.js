@@ -1,7 +1,7 @@
 var a = 10
 
 function adda() {
-  a += b
+ return a += ;
 }
 
 function subtractb() {
